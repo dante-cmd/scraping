@@ -1,0 +1,23 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "chromedriver": "^107.0.3",
+    "geckodriver": "^3.2.0",
+    "mongoose": "^6.7.2",
+    "selenium-webdriver": "^4.6.0"
+  }
+}
